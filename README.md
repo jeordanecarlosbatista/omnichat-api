@@ -20,10 +20,6 @@ git clone https://github.com/jeordanecarlosbatista/omnichat-api.git
 docker-compose build
 ```
 
->> Serão criadas as duas "images" docker do projeto: 
->> - uma para o serviço de Banco de Dados (que pode ser acessada a partir do Dockerfile mantido no diretório "postgresql_9.3") 
->> - outra para o serviço web (Dockerfile da raiz do projeto)
-
 > - **Execute os containers**
 ```
 docker-compose up
