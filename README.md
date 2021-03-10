@@ -28,6 +28,9 @@ docker-compose up
 > - **Acesse a aplicação**
 ```
 http://localhost:3000/docs
+Login:
+username: omnichat
+password: 123456
 ```
 
 ### Contato
