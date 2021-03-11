@@ -5,7 +5,7 @@
         "PORT": 3000
     },
     "DB": {
-        "MONGO": "mongodb://db-omnichat/omnichat?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false"
+        "MONGO": "mongodb://root:root@db-omnichat/omnichat?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false"
     },
     "USER": {
         "USERNAME": "omnichat",
