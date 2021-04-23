@@ -8,7 +8,7 @@
     "start": "node index.js",
     "mocha": "mocha"
   },
-  "author": "Jean Carlos Batista",
+  "author": "Jeordane Carlos Batista",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
